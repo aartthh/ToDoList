@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+
+    --tw-bg-opacity:1;
+    background-color: rgb(241, 241, 188);
+    background-image: url('https://thumbs.dreamstime.com/z/to-do-list-seamless-pattern-background-business-flat-vector-illustration-checklist-task-list-symbol-pattern-to-do-list-seamless-110193579.jpg');
+    background-size: cover; /* Adjusts the image to cover the entire background */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    
+}
